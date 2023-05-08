@@ -1,8 +1,6 @@
 spring:
   main:
     banner-mode: off
-
-spring:
   config:
     import: 
       - default/app-n4.yml
