@@ -1,0 +1,4 @@
+platform-apps:
+  apps:
+    - name: n4
+      api-key: some-api-key-for-n4
