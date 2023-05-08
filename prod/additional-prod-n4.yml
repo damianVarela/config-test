@@ -2,4 +2,5 @@ platform-apps:
   apps:
     n4:
       name: name-n4
+      url: a-nice-url
 
