@@ -3,6 +3,6 @@ server:
 
 spring:
   config:
-    import: n4.yml
+    import: app-prod-n4.yml
 
 
