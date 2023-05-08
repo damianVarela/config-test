@@ -2,6 +2,7 @@ server:
   port: 8083
 
 platform-apps:
-  - name: n4
-    api-key: some-api-key
+  apps:
+    - name: n4
+      api-key: some-api-key
 
