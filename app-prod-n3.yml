@@ -1,0 +1,5 @@
+platform-apps:
+  apps:
+    - name: n3
+      api-key: some-api-key-for-n3
+
