@@ -1,8 +1,8 @@
 server:
   port: 8083
 
-platform-apps:
-  apps:
-    - name: n4
-      api-key: some-api-key
+spring:
+  config:
+    import: n4.yml
+
 
