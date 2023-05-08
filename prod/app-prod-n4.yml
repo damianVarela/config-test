@@ -5,4 +5,4 @@ platform-apps:
 
 spring:
   config:
-    import: prod/additional-prod-n4.yml
+    import: additional-prod-n4.yml
