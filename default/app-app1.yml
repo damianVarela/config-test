@@ -3,5 +3,5 @@ platform-apps:
     app1:
       name: default-name-changed-again-by-webhook-1
       api-key: default-api-key
-      url: default-url
+#      url: default-url
 
