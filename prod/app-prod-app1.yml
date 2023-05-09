@@ -1,0 +1,8 @@
+platform-apps:
+  apps:
+    app1:
+      api-key: some-api-key-for-app1
+
+spring:
+  config:
+    import: additional-prod-app1.yml

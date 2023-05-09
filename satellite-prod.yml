@@ -1,0 +1,10 @@
+server:
+  port: 8083
+
+spring:
+  config:
+    import:
+      - prod/app-prod-app1.yml
+      - prod/app-prod-app2.yml
+
+

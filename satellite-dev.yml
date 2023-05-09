@@ -4,6 +4,6 @@ server:
 spring:
   config:
     import:
-      - dev/app-dev-n3.yml
+      - dev/app-dev-app2.yml
 
 

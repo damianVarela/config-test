@@ -1,0 +1,5 @@
+platform-apps:
+  apps:
+    app2:
+      api-key: some-api-key-for-app2
+

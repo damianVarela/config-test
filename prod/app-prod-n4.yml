@@ -1,8 +1,0 @@
-platform-apps:
-  apps:
-    n4:
-      api-key: some-api-key-for-n4
-
-spring:
-  config:
-    import: additional-prod-n4.yml

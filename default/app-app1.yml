@@ -1,6 +1,6 @@
 platform-apps:
   apps:
-    n4:
+    app1:
       name: default-name
       api-key: default-api-key
       url: default-url

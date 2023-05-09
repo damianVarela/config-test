@@ -1,6 +1,6 @@
 platform-apps:
   apps:
-    n4:
-      name: name-n4
+    app1:
+      name: name-app1
       url: a-nice-url
 

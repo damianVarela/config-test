@@ -3,7 +3,7 @@ spring:
     banner-mode: off
   config:
     import: 
-      - default/app-n4.yml
+      - default/app-app1.yml
   rabbitmq:
     host: localhost
     port: 5672
