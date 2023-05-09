@@ -1,7 +1,7 @@
 platform-apps:
   apps:
     app1:
-      name: default-name
+      name: default-name-changed
       api-key: default-api-key
       url: default-url
 
