@@ -1,5 +1,5 @@
 platform-apps:
   apps:
     app2:
-      api-key: some-api-key-for-app2-changed-by-webhook-1
+      api-key: some-api-key-for-app2-changed-by-webhook-2
 
