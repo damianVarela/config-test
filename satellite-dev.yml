@@ -6,6 +6,6 @@ spring:
     import:
       - dev/app-dev-app2.yml
 
-some: value-1
+some: value-2
 
 
