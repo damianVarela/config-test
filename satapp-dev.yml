@@ -1,0 +1,9 @@
+server:
+  port: 8083
+
+spring:
+  config:
+    import:
+      - dev/app-dev-n4.yml
+
+
