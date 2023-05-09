@@ -5,4 +5,4 @@ platform-apps:
 
 spring:
   config:
-    import: additional-prod-app1.yml
+    import: satellite-additional-prod-app1.yml
