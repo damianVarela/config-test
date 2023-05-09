@@ -4,7 +4,7 @@ server:
 spring:
   config:
     import:
-      - dev/app-dev-app2.yml
+      - dev/satellite-app-dev-app2.yml
 
 some: value-2
 
