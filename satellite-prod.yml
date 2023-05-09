@@ -4,7 +4,7 @@ server:
 spring:
   config:
     import:
-      - prod/app-prod-app1.yml
-      - prod/app-prod-app2.yml
+      - prod/satellite-app-prod-app1.yml
+      - prod/satellite-app-prod-app2.yml
 
 
