@@ -1,6 +1,6 @@
 platform-apps:
   apps:
     app1:
-      name: name-app1-changed-by-webhook-1
+      name: name-app1-changed-by-webhook-2
       url: a-nice-url
 
